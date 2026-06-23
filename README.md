@@ -45,4 +45,9 @@ Model accuracy achieved on the test dataset.
 Successfully classified text reviews and tweets into sentiment categories using Natural Language Processing techniques. The project included data preprocessing, TF-IDF vectorization, model training, sentiment prediction, and visualization of sentiment-related patterns.
 
 ## OUTPUT
-
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/5946c825-748f-46e4-b9d9-ca92b60a9817" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/9822b215-2e3b-4438-bff5-466af3374643" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/f6cf338d-4408-4142-9f53-7e313bc4375f" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/c8757d0f-94f1-4e53-8c34-ee8456f48bbe" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/85bf0cd1-ccd3-416d-ae13-14829e7a78fc" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2b1f034f-f513-4a35-ad4f-50579d8a1f86" />
